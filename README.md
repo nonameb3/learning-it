@@ -8,15 +8,14 @@
 
 # สารบัญ
 
-* [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
-* [รวมลิงค์ Text book ฟรี](#รวมลิงค์-text-book-ฟรี)
-* [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
-* [บทความเจ๋งๆ เห็นแล้วร้องว้าว](#บทความเจ๋งๆ-เห็นแล้วร้องว้าว)
-* [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
-* [คอร์สเรียนฟรีจากทั่วโลก](#คอร์สเรียนฟรีจากทั่วโลก)
-* [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
-* [แนะนำกลุ่ม facebook](#แนะนำกลุ่ม-facebook)
-* [โปรแกรมอรรถประโยชน์](#โปรแกรมอรรถประโยชน์)
+* :books: [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
+* :books: [รวมลิงค์ Text book ฟรี](#รวมลิงค์-text-book-ฟรี)
+* :movie_camera: [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
+* :movie_camera: [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
+* :fire: [คอร์สเรียนฟรีจากทั่วโลก](#คอร์สเรียนฟรีจากทั่วโลก)
+* :fire:  [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
+* :fire: [แนะนำกลุ่ม facebook](#แนะนำกลุ่ม-facebook)
+* :green_book: [บทความดีๆ](#บทความดีๆ)
 
 ## หนังสือ Ebooks ฟรี ภาษาไทย
 
@@ -134,6 +133,8 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [คู่มือพื้นฐานใช้งาน Adobe Photoshop CS3 เขียนโดย มานิตย์ กริ่งรัมย์](http://ebooks.in.th/ebook/32514/คู่มือพื้นฐานใช้งาน_Adobe_Photoshop_CS3/)
 * [Web Security - ความปลอดภัยของเว็บ ของ อาจารย์ Thawatchai Chomsiri](https://www.researchgate.net/publication/315943371_Web_Security_-_khwamplxdphaykhxngweb)
 * [คู่มือ Cyber Security สำหรับประชาชน โดย กสทช.](http://www.muit.mahidol.ac.th/announcement/CyberSecurityPeople.pdf)
+* [การพัฒนา AR เล่ม1-2 ดร.ก้องเกียรติ หิรัญเกิด เขียน นรินธน์ นนทมาลย์ เรียบเรียง](https://drive.google.com/drive/folders/14-nuIReqypxSPATtde28JwLEivcxkljo?usp=sharing)
+* [Blockchain + bitcoin โดย คุณ Apaichon Punopas](https://docs.google.com/presentation/d/10Z8iWXjj82lWRuO19nZ8lc5SdOnjHaPytpUIJpaLNbQ/edit#slide=id.p)
 
 ## รวมลิงค์ Text book ฟรี
 
@@ -174,9 +175,10 @@ https://www.apple.com/th/support/itunes-u/using/
 * [สอนพื้นฐานการเขียนโปรแกรมด้วยภาษาไพธอน (Python 3) โดย รศ. ดร. ประเสริฐ คณาวัฒนไชย จากจุฬาฯ](https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW)
 * [Python โดย Clique Club - ชมรมคลิก ของจุฬา](https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw)
 * [Python เบื้องต้นแบบรวบรัด 30 นาที](https://www.youtube.com/watch?v=UXJ_iogbivw)
+* [Python programming จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2022801434624855/?type=3&theater)
 
 ### HTML5
-
+* (https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2022801434624855/?type=3&theater)
 * [สอน HTML เบื้องต้น ของคุณ Kong Ruksiam](https://www.youtube.com/watch?v=OU_bwaht7kM&list=PLEE74DyIkwElVMA4srMkyGn8ekDcQ8h2K)
 
 ### JavaScript
@@ -238,9 +240,12 @@ https://www.apple.com/th/support/itunes-u/using/
   List รวมลิงค์ขนาดใหญ่เกี่ยวกับ Machine Learning (ภาษาอังกฤษเป็นหลัก) Machine Learning เป็นสาขาย่อยของ AI ว่าด้วยการทำให้เครื่องคอมพิวเตอร์เรียนรู้ได้ จากการวิเคราะห์ data จำนวนมาก
   เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
   และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning  
-* [คอร์สเรียนจากจุฬา ชื่อ Pattern Recognition (ก็คือ Machine learning นั่นแหละ) สอนโดยอาจารย์ Ekapol Chuangsuwanich](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
+* [คอร์สเรียนจากจุฬา ชื่อ Pattern Recognition (ก็คือ Machine learning นั่นแหละ) โดยอาจารย์ Ekapol Chuangsuwanich](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
+* [2110594 NLP L1 Introduction โดยอาจารย์ Ekapol Chuangsuwanich](https://youtu.be/yTYo6XJjMzY?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) [Course github](https://github.com/ekapolc/nlp_course)
 * [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
+* [Python for Data Sceience จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2049490818622583/?type=3)
+* [Deep Learning Workshop โดย NECTEC TechTalk](https://www.youtube.com/watch?v=CB7DKG7bPzo)
 
 ### Agile 
 
@@ -263,10 +268,8 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 * [เรียนออนไลน์ Cloud computing, Open Data, IPv6 และ Security Awareness ของสถาบันพัฒนาบุคลากรด้านดิจิทัลภาครัฐ](https://e-learning.ega.or.th/)
-* [คอร์สเรียนจาก Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/)
 
 ## วีดีโอสอนเป็นภาษาอังกฤษ
-
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ - แนะนำลิงค์นี้เลย](https://github.com/Developer-Y/cs-video-courses) ไม่ว่าจะเป็น MIT, Harvard, Stanford, UCBerkeley, University of Washington ฯลฯ ของธรรมศาสตร์ก็มีด้วยนะ และมหาวิทยาลัยอื่นๆ อีกเยอะแยะมากมาย มันจะคละๆ กันไปหลายวิชาหน่อย
 
 * [edX.org เปิดคอร์สฟรีด้านการเขียนโปรแกรมฟรีๆ หลายตัวด้วยกัน](https://www.edx.org/computer-science-education-week)
@@ -274,7 +277,7 @@ https://www.apple.com/th/support/itunes-u/using/
 https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 จะเห็นหลายชื่อ คอร์สของไมโครซอฟต์ ที่เหมาะกับโปรแกรมเมอร์หลายตัวที่เดียวเชียว มากกว่า 200 กว่าคอร์ส เช่น C#, Xamarin,Basic,Angular, React, powershell,ASP.NET,Node.js, Big Data, สร้างเกมโดย Construct 2 และหลายตัว ฯลฯ เลือกดูเอานะ
 * [คอร์สเรียน Quantum Computing ของ MIT (ร่วมมือกับ IBM)](https://quantumcurriculum.mit.edu/)
-
+* [คอร์สเรียนจาก Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/)
 
 ## คอร์สเรียนฟรีจากทั่วโลก
  
@@ -295,6 +298,8 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [รวมคอร์สเรียน Machine learning](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [รวม 13 คอร์สเรียน Deep learning](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0?source=user_profile---------1)
 * [สอบ CCNA ของ Cisco โดย David Bombal วิชาที่สอน CCNA Exam 200-125, 100-105 and 200-105](https://www.youtube.com/playlist?list=PLhfrWIlLOoKN-QsGKGaWwmJDOaiJJSyYX)
+* [course Security จาก cybrary](https://www.cybrary.it/)
+* [6.S191: Introduction to Deep Learning จาก MIT](http://introtodeeplearning.com/)
 
 ## แหล่งความรู้อื่นๆ
 
